@@ -1,0 +1,33 @@
+body{
+    color: white;
+    background-image: linear-gradient(rgb(255, 255, 255),grey,rgb(49, 49, 49),black);
+}
+.heading{
+    font-size: 25px;
+}
+#ID{
+    color: red;
+}
+#Ko{
+    color: green;
+}
+
+#oK{
+    color: red;
+}
+
+#camera{
+ height: 300px;
+ width: 300px;
+ border-width: 2px;
+ border-color: white;
+ border-style: solid;
+}
+
+#div56{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
